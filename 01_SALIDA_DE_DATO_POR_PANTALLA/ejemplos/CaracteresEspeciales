@@ -1,0 +1,11 @@
+public class CaracteresEspeciales01 {
+
+    public static void mainn(String[] args){
+        System.out.print("Cuando el programo \u2328 y no salen mal las cosas \u263A ");
+        System.out.print("y me siento como un \u2654");
+    }
+
+
+
+
+}
